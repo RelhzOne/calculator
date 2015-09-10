@@ -1,2 +1,2 @@
 # calculator
-simple calculator
+simple calculator writed with Django
